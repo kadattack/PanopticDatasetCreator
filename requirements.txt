@@ -1,0 +1,5 @@
+numpy==1.19.5
+pycocotools-windows==2.0.0.2
+opencv-contrib-python==4.5.4.58
+imantics==0.1.12
+pycocotools==2.0.2
